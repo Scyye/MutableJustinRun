@@ -10,6 +10,6 @@ A mod for Justin Run 2 allowing you to mute the game using 'M' (config coming so
 
 3: Extract the game files, and then extract the BepInEx files into the game folder, where the Justin run 2.exe file is located.
 
-4: Download the .dll file from this repo, place it in GameDir/BepInEx/Plugins 
+4: Download the latest .dll file from this repo (https://github.com/Scyye/MutableJustinRun/releases/tag/Release) , place it in GameDir/BepInEx/Plugins 
 
 5: Launch Justin run 2.exe and enjoy the mod
